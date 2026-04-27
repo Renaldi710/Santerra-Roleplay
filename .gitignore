@@ -7,4 +7,4 @@ server/temp/
 *.so
 *.db
 server.cfg
-
+*.cadb
