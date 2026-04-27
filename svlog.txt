@@ -1,0 +1,23 @@
+[01:42:41] : [sv:dbg:network:init] : module initializing...
+[01:42:41] : [dbg:raknet:init] : module initializing...
+[01:42:41] : [dbg:raknet:init] : module initialized
+[01:42:41] : [sv:dbg:network:init] : module initialized
+[01:42:41] : [sv:dbg:main:Load] : creating 2 work threads...
+[01:42:41] :  -------------------------------------------    
+[01:42:41] :    ___                __   __    _              
+[01:42:41] :   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[01:42:41] :   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[01:42:41] :   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[01:42:41] :                   |_|                           
+[01:42:41] :  -------------------------------------------    
+[01:42:41] :            SampVoice by MOR loaded              
+[01:42:41] :  -------------------------------------------    
+[01:42:43] :  -------------------------------------------
+[01:42:43] :            SampVoice unloading...           
+[01:42:43] :  -------------------------------------------
+[01:42:43] : [sv:dbg:pawn:free] : module releasing...
+[01:42:43] : [sv:dbg:pawn:free] : module released
+[01:42:43] : [dbg:raknet:free] : module releasing...
+[01:42:43] : [dbg:raknet:free] : module released
+[01:42:43] : [sv:dbg:network:free] : module releasing...
+[01:42:43] : [sv:dbg:network:free] : module released

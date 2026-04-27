@@ -1,0 +1,8 @@
+graffcreator=B
+graffname={F81414}HIDUP GUA SIAL NGEN
+Xpos=2244.406005
+Ypos=2572.053955
+Zpos=10.597908
+XYpos=0.000000
+YYpos=0.000000
+ZYpos=0.000000

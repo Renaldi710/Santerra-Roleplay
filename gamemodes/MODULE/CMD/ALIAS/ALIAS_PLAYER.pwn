@@ -1,0 +1,8 @@
+alias:deny("cancel")
+alias:enter("exit", "ex")
+alias:items("item", "inv", "inventory")
+alias:email("mail")
+alias:savestats("savestat", "saveme")
+alias:time("delay")
+alias:mycond("health")
+alias:mechduty("wduty")

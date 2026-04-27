@@ -1,0 +1,34 @@
+- Ucp Discord CMD : >create (Nama Ucp)
+- Berry
+- Borax
+- Samugler
+- Trade
+- Garkot
+- Modshop
+- Salary
+- Vehicle Toys
+- Textdraw Laparhaus
+- Textdraw Sim&Ktp
+- Drag, Undrag (Gandong Player)
+- Dynamic Workshop, Locker, House, Vending
+Dll Cek Sendiri
+JOB
+- Job Box
+- Job Bus
+- Job Couries
+- Job Depositor
+- Job Farmer
+- Job Electric
+- Job Forklift
+- Job Hauling
+- Job Kurir
+- Job Lumber
+- Job Mech
+- Job Miner
+- Job Pizza
+- Job Oil
+- Job Sweeper
+- Job Taxi
+- Job Production
+- Trucker
+- Trashmaster

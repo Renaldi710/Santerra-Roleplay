@@ -1,0 +1,191 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:38:54] password = ""  (string)
+[15:38:54] 
+[15:38:54] Server Plugins
+[15:38:54] --------------
+[15:38:54]  Loading plugin: crashdetect
+[15:38:54]   CrashDetect plugin 4.19.4
+[15:38:54]   Loaded.
+[15:38:54]  Loading plugin: pawncmd
+[15:38:54] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[15:38:54]   Loaded.
+[15:38:54]  Loading plugin: pawn-memory
+[15:38:54] ========================
+[15:38:54] = Memory access plugin =
+[15:38:54] =       Made by BigETI =
+[15:38:54] = Loaded!              =
+[15:38:54] ========================
+[15:38:54]   Loaded.
+[15:38:54]  Loading plugin: mysql
+[15:38:54]  >> plugin.mysql: R41-4 successfully loaded.
+[15:38:54]   Loaded.
+[15:38:54]  Loading plugin: sscanf
+[15:38:54] 
+
+[15:38:54]  ===============================
+
+[15:38:54]       sscanf plugin loaded.     
+
+[15:38:54]          Version:  2.8.3        
+
+[15:38:54]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:38:54]  ===============================
+
+[15:38:54]   Loaded.
+[15:38:54]  Loading plugin: streamer
+[15:38:54] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[15:38:54]   Loaded.
+[15:38:54]  Loading plugin: CTime
+[15:38:54]  
+ » CTime Library Plugin For Pawn v0.1.0 - Copyright © 2011 RyDeR` 
+ 
+[15:38:54]   Loaded.
+[15:38:54]  Loading plugin: discord-Connector
+[15:38:56]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[15:38:56]   Loaded.
+[15:38:56]  Loading plugin: gvar
+[15:38:56] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[15:38:56]   Loaded.
+[15:38:56]  Loading plugin: ColAndreas
+[15:38:56] *********************
+[15:38:56] ** Created By:     **
+[15:38:56] ** [uL]Chris42O    **
+[15:38:56] ** [uL]Slice       **
+[15:38:56] ** [uL]Pottus      **
+[15:38:56] *********************
+[15:38:58] Loaded collision data.
+[15:38:58] *********************
+[15:38:58]   ColAndreas Loaded
+[15:38:58]    v1.4.0
+[15:38:58] *********************
+[15:38:58]   Loaded.
+[15:38:58]  Loading plugin: timerfix
+[15:38:58]   >> TimerFix v1.7 successfully loaded.
+[15:38:58]   Loaded.
+[15:38:58]  Loading plugin: nativechecker
+[15:38:58]   Loaded.
+[15:38:58]  Loaded 12 plugins.
+
+[15:38:58] 
+[15:38:58] Ban list
+[15:38:58] --------
+[15:38:58]  Loaded: samp.ban
+[15:38:58] 
+[15:38:58] 
+[15:38:58] Filterscripts
+[15:38:58] ---------------
+[15:38:58]   Loading filterscript 'object.amx'...
+[15:38:58]   Loading filterscript 'voic.amx'...
+[15:38:58]   Unable to load filterscript 'voic.amx'.
+[15:38:58]   Loading filterscript 'Buttons.amx'...
+[15:38:58]   Loaded 2 filterscripts.
+
+[15:38:58]  
+[15:38:58]  
+[15:38:58]  
+[15:38:58]  ======================================= 
+[15:38:58]  |                                     | 
+[15:38:58]  |        YSI version 4.00.0001        | 
+[15:38:58]  |        By Alex "Y_Less" Cole        | 
+[15:38:58]  |                                     | 
+[15:38:58]  ======================================= 
+[15:38:58]  
+[15:38:59] *** YSI Warning: y_malloc set up via "CallLocalFunction", memory corruption is a remote possibility
+[15:38:59] [Pawn.CMD] PC_RegAlias: Command name 'storage' is occupied
+[15:38:59] [Pawn.CMD] PC_RegAlias: invalid unordered_map<K, T> key
+[15:38:59] [Pawn.CMD] PC_RegAlias: Command name 'sethealth' is occupied
+[15:38:59] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[15:38:59] [ADM] Info: Load 3DTryg v4.8.6 for SA:MP 0.3.7 by Abyss Morgan
+[15:38:59] Loading Map.
+[15:38:59] Loaded Map.                             
+[15:38:59] [ADM] Info: ColAndreas successfully init.
+[15:38:59] MySQL connection is successful.
+[15:38:59] Machine Berhasil Dimuat
+[15:38:59] [RT:RP Database] Actors Loaded Successfully
+[15:39:00] [Object] Number of Dynamic objects loaded: 14885
+[15:39:00] Number of vehicle models: 16
+[15:39:00] [Server] Number of Loaded Data Server...
+[15:39:00] [Server] ServerMoney: 878270918
+[15:39:00] [Doors] Number of Doors loaded: 55.
+[15:39:00] [FAMILY] Number of Familys loaded: 1.
+[15:39:00] [Houses] Number of Loaded: 5.
+[15:39:00] [Bisnis] Number of Loaded: 5.
+[15:39:00] [WORKSHOP] Number of Loaded: 2.
+[15:39:00] [Dynamic Locker Faction] Number of Loaded: 3.
+[15:39:00] [Dynamic Gas Station] Number of Loaded: 19.
+[15:39:00] [MySQL Atm] Atm Loaded Number: 24.
+[15:39:00] [Gates] Number of Gates loaded: 42.
+[15:39:00] [Dynamic Tree] Number of Loaded: 41.
+[15:39:00] [Dynamic Ore] Number of Loaded: 100.
+[15:39:00] [Dynamic Park Point] Number of Loaded: 5.
+[15:39:00] DEBUG: DealerRefresh Called on Dealer ID 0
+[15:39:00] DEBUG: DealerRefresh Called on Dealer ID 1
+[15:39:00] DEBUG: DealerRefresh Called on Dealer ID 2
+[15:39:00] [Dynamic Dealership] Number of Loaded: 3.
+[15:39:00] [Dynamic Berry] Number of Loaded: 4.
+[15:39:15] [connection] 127.0.0.1:55908 requests connection cookie.
+[15:39:15] [connection] incoming connection: 127.0.0.1:55908 id: 0
+[15:39:16] [connection] incoming connection: 127.0.0.1:56259 id: 0
+[15:39:16] [join] ReyyItsMe has joined the server (0:127.0.0.1)
+[15:39:16] [part] ReyyItsMe has left the server (0:2)
+[15:40:43] [connection] 127.0.0.1:59858 requests connection cookie.
+[15:40:43] [connection] incoming connection: 127.0.0.1:59858 id: 0
+[15:40:44] [connection] incoming connection: 127.0.0.1:59859 id: 0
+[15:40:44] [join] ReyyItsMe has joined the server (0:127.0.0.1)
+[15:40:55] [OnDialogResponse]: ReyyItsMe(0) has used dialog id: 47 Listitem: -1
+[15:40:58] [OnDialogResponse]: ReyyItsMe(0) has used dialog id: 46 Listitem: -1
+[15:40:58] [LOGS] ReyyItsMe(0) Succesfuly Login With Password(12345678)
+[15:40:59] [OnDialogResponse]: ReyyItsMe(0) has used dialog id: 45 Listitem: 0
+[15:41:08] [OnDialogResponse]: ReyyItsMe(0) has used dialog id: 44 Listitem: -1
+[15:41:14] [OnDialogResponse]: Dom_Cristoferson(0) has used dialog id: 48 Listitem: -1
+[15:41:15] [OnDialogResponse]: Dom_Cristoferson(0) has used dialog id: 49 Listitem: 0
+[15:41:35] [CMD]: Dom_Cristoferson(0) has used the command 'changelogs' ()
+[15:41:45] [OnDialogResponse]: Dom_Cristoferson(0) has used dialog id: 41 Listitem: -1
+[15:41:51] [CMD]: Dom_Cristoferson(0) has used the command 'stats' ()
+[15:41:54] [OnDialogResponse]: Dom_Cristoferson(0) has used dialog id: 52 Listitem: -1
+[15:41:58] [part] Dom_Cristoferson has left the server (0:1)
+Console input: exit
+[15:43:04] --- Server Shutting Down.
+[15:43:04] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[15:43:04] [ADM] Info: Unload 3DTryg v4.8.6 for SA:MP 0.3.7 by Abyss Morgan
+[15:43:04] -------------- [ Auto Gmx ] --------------
+[15:43:04] [Gas Station] Number of Saved: 19
+[15:43:04] [Farmer Plant] Number of Saved: 0
+[15:43:04] [Database] User Saved: 0
+[15:43:04] -------------- [ Auto Gmx ] --------------
+[15:43:04] [RT:RP Database] Actors saved successfully
+[15:43:04] [Pawn.CMD] plugin v3.3.2 by urShadow unloaded
+[15:43:04] ========================
+[15:43:04] = Memory access plugin =
+[15:43:04] =       Made by BigETI =
+[15:43:04] = Unloaded!            =
+[15:43:04] ========================
+[15:43:04] plugin.mysql: Unloading plugin...
+[15:43:04] plugin.mysql: Plugin unloaded.
+[15:43:04] 
+
+[15:43:04]  ===============================
+
+[15:43:04]      sscanf plugin unloaded.    
+
+[15:43:04]  ===============================
+
+[15:43:04] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
