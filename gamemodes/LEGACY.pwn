@@ -3,8 +3,8 @@
 
 -Thakst To My God (ALLAH SWT)
 -Thaks To Aurthor Gamemode (Dandy Prasetyo)
--Tanks To All Staff LegacyPride
--New System From Developer LegacyPride (Twosix/Bobi)
+-Tanks To All Staff Santerra
+-New System From Developer Santerra (Twosix/Bobi)
 
 							[-----------------------------------------------]
 							[	`Basic Script : Dandy Prasetyo              ]
@@ -4483,12 +4483,12 @@ public OnGameModeInit()
 	getdate(y, m , d);
 	channell = DCC_FindChannelById("934415585754882069");
 	format(timestamp, sizeof(timestamp), "%02i%02i%02i", y, m, d);
-	logss = DCC_CreateEmbed("LegacyPride Roleplay");
-	DCC_SetEmbedTitle(logss, "LegacyPride");
+	logss = DCC_CreateEmbed("Santerra Roleplay");
+	DCC_SetEmbedTitle(logss, "Santerra");
 	DCC_SetEmbedTimestamp(logss, timestamp);
 	DCC_SetEmbedColor(logss, 0x00ff00);
-	DCC_SetEmbedUrl(logss, "https://gta-legacypride.id");
-	DCC_SetEmbedFooter(logss, "LEGACY PRIDE ROLEPLAY", "");
+	DCC_SetEmbedUrl(logss, "https://gta-Santerra.id");
+	DCC_SetEmbedFooter(logss, "SANTERRA ROLEPLAY", "");
 	new stroi[5000];
 	format(stroi, sizeof(stroi), "Server Kembali Online @everyone");
 	DCC_AddEmbedField(logss, "Server Status", stroi, true);
@@ -4574,12 +4574,12 @@ public OnGameModeExit()
 	getdate(y, m , d);
 	channell = DCC_FindChannelById("934415585754882069");
 	format(timestamp, sizeof(timestamp), "%02i%02i%02i", y, m, d);
-	logss = DCC_CreateEmbed("LegacyPride Roleplay");
-	DCC_SetEmbedTitle(logss, "LegacyPride");
+	logss = DCC_CreateEmbed("Santerra Roleplay");
+	DCC_SetEmbedTitle(logss, "Santerra");
 	DCC_SetEmbedTimestamp(logss, timestamp);
 	DCC_SetEmbedColor(logss, 0xff0000);
-	DCC_SetEmbedUrl(logss, "https://gta-legacypride.id");
-	DCC_SetEmbedFooter(logss, "LEGACY PRIDE ROLEPLAY", "");
+	DCC_SetEmbedUrl(logss, "https://gta-Santerra.id");
+	DCC_SetEmbedFooter(logss, "SANTERRA ROLEPLAY", "");
 	new stroi[5000];
 	format(stroi, sizeof(stroi), "Server Maintenance Harap Sabar @everyone");
 	DCC_AddEmbedField(logss, "Server Status", stroi, true);
@@ -5179,7 +5179,7 @@ public OnPlayerConnect(playerid)
  	new str[526],stro[526];
  	format(str,sizeof(str),"%s", GetPlayerNameEx(playerid));
  	format(stro,sizeof(stro),"%d/%d",online,GetMaxPlayers());
-	apalah = DCC_CreateEmbed("LEGACY PRIDE ROLEPLAY","Player Connect","","",0x00ff00,"Join us @gta-legacypride.id","","","");
+	apalah = DCC_CreateEmbed("SANTERRA ROLEPLAY","Player Connect","","",0x00ff00,"Join us @gta-Santerra.id","","","");
 	DCC_AddEmbedField(apalah, str, string, true);
 	DCC_AddEmbedField(apalah, "Current Player", stro, true);
 	DCC_SendChannelEmbedMessage(g_discord_server, apalah);
@@ -5600,7 +5600,7 @@ public OnPlayerDisconnect(playerid, reason)
  	format(str,sizeof(str),"%s",name);
  	format(stra,sizeof(stra),"%s",reasontext);
  	format(stro,sizeof(stro),"%d/%d",online,GetMaxPlayers());
-	apalah = DCC_CreateEmbed("LEGACY PRIDE ROLEPLAY","Player Disconnect","","",0xff0000,"Join us @gta-legacypride.id","","","");
+	apalah = DCC_CreateEmbed("SANTERRA ROLEPLAY","Player Disconnect","","",0xff0000,"Join us @gta-Santerra.id","","","");
 	DCC_AddEmbedField(apalah, str, string, true);
 	DCC_AddEmbedField(apalah, "Reason", stra, true);
 	DCC_AddEmbedField(apalah, "Current Player", stro, true);
